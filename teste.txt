@@ -7,3 +7,6 @@ Outra estrofe
 Outra estrofe
 
 Estou sem criatividade para escrever mais uma estrofe
+
+#Aqui estou adicionando uma nova variavel
+NOME="Engels"
